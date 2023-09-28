@@ -1,1 +1,2 @@
-# Car-pricing-analysis
+# Car-price-prediction
+The "Car Price Prediction" project is a machine learning project that predicts the prices of cars based on various attributes. It employs Linear Regression as the primary predictive model, utilizes PCA to reduce the dimensionality of the dataset while maintaining predictive accuracy (You can experiment with different PCA components to optimize the model's performance). The project also includes data preprocessing and encoding to prepare the dataset for modeling.
